@@ -16,6 +16,9 @@ model-index:
 <!-- This model card has been generated automatically according to the information the Trainer had access to. You
 should probably proofread and complete it, then remove this comment. -->
 
+# Customized Model Link
+[Check out the Mistral Instruct Generation model on Hugging Face](https://huggingface.co/tdnathmlenthusiast/mistral_instruct_generation)
+
 # mistral_instruct_generation
 
 This model is a fine-tuned version of [mistralai/Mistral-7B-Instruct-v0.1](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1) on the generator dataset.
